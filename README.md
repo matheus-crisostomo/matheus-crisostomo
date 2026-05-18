@@ -55,8 +55,8 @@
 ## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23ef4444&height=24" alt="estatísticas" /> Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-crisostomo&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9&ring_color=ef4444" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheus-crisostomo&layout=compact&hide_border=true&bg_color=1a1b27&title_color=ef4444&text_color=c9d1d9" alt="Linguagens Mais Usadas"/>
+  <img height="170" src="https://github-readme-stats-coral-three-73.vercel.app/api?username=matheus-crisostomo&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9&ring_color=ef4444" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats-coral-three-73.vercel.app/api/top-langs/?username=matheus-crisostomo&layout=compact&hide_border=true&bg_color=1a1b27&title_color=ef4444&text_color=c9d1d9" alt="Linguagens Mais Usadas"/>
 </div>
 
 <br>
@@ -70,7 +70,15 @@
 ## <img src="https://api.iconify.design/mdi/trophy.svg?color=%23ef4444&height=24" alt="troféu" /> Repositório com Mais Contribuições
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=matheus-crisostomo&limit=5&theme=dark&hide_border=true&background=1a1b27&title_color=ef4444&text_color=c9d1d9&combine_all_yearly_contributions=true" alt="Repositório com Mais Contribuições"/>
+  <a href="https://github.com/matheus-crisostomo/clinicalAPI">
+    <img src="https://github-readme-stats-coral-three-73.vercel.app/api/pin/?username=matheus-crisostomo&repo=clinicalAPI&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="clinicalAPI"/>
+  </a>
+  <a href="https://github.com/matheus-crisostomo/api-node">
+    <img src="https://github-readme-stats-coral-three-73.vercel.app/api/pin/?username=matheus-crisostomo&repo=api-node&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="api-node"/>
+  </a>
+  <a href="https://github.com/matheus-crisostomo/bst-project">
+    <img src="https://github-readme-stats-coral-three-73.vercel.app/api/pin/?username=matheus-crisostomo&repo=bst-project&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="bst-project"/>
+  </a>
 </div>
 
 ---
