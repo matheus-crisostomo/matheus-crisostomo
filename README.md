@@ -71,9 +71,9 @@ interests: ["Desenvolvimento Web", "Open Source", "UI/UX"]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/matheus-crisostomo)
-[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:seu-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/matheus-crisostomo-250337388/)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:crisostomo.matheus06@gmail.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://seu-portfolio.com)-->
 
 </div>
 
