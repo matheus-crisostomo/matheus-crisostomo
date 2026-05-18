@@ -17,14 +17,21 @@ jobs:
 
       - name: Generate Snake
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: matheus-crisostomo
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=ef4444&color_dots=#1a1b27,#2d1a1a,#5c2020,#b91c1c,#ef4444
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+      - name: Deploy to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf .
+          cp dist/github-snake-dark.svg .
+          git add github-snake-dark.svg
+          git commit -m "chore: update snake svg"
+          git push origin output --force
