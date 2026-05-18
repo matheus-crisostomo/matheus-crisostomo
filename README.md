@@ -1,17 +1,5 @@
 <div align="center">
-
-<!-- Header Banner -->
-<img width="100%" src="./assets/red-tree.gif" alt="Banner"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EF4444&center=true&vCenter=true&random=false&width=600&lines=MasterCrisostomo+here+%F0%9F%94%A5+!" alt="Typing SVG" />
-</a>
-
-<br>
-
-**Namaste 🙏 I'm Matheus Crisostomo**
-
+  <img width="100%" src="./assets/header.svg" alt="Matheus Crisostomo - Back End Developer"/>
 </div>
 
 ---
