@@ -12,32 +12,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: matheus-crisostomo
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=ef4444&color_dots=#1a1b27,#2d1a1a,#5c2020,#b91c1c,#ef4444
 
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
-      - uses: actions/checkout@v4
-        with:
-          ref: output
-          fetch-depth: 0
-        continue-on-error: true
-
       - name: Push to output branch
-        run: |
-          mkdir -p output_dir
-          cp dist/github-snake-dark.svg output_dir/
-          cd output_dir
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Update snake SVG"
-          git branch -M output
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/matheus-crisostomo/matheus-crisostomo.git
-          git push -f origin output
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
