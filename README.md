@@ -1,30 +1,30 @@
 <div align="center">
-  <img width="100%" src="./assets/header.svg" alt="Matheus Crisostomo - Back End Developer"/>
+  <img width="100%" src="./assets/header.svg" alt="Matheus Crisostomo - Desenvolvedor Back End"/>
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/mdi/fire.svg?color=%23ef4444&height=24" alt="fire" /> About Me
+## <img src="https://api.iconify.design/mdi/fire.svg?color=%23ef4444&height=24" alt="fogo" /> Sobre Mim
 
-- <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23ef4444&height=18" alt="rocket" /> Began the journey with Software Development in **Java / Spring Boot**
-- <img src="https://api.iconify.design/mdi/brain.svg?color=%23ef4444&height=18" alt="brain" /> A work-in-progress Back End Developer, shipping when I can
-- <img src="https://api.iconify.design/mdi/sprout.svg?color=%23ef4444&height=18" alt="sprout" /> Currently pursuing a degree in Computer Science
-- <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23ef4444&height=18" alt="lightbulb" /> I practice on **n8n**, **automation** and **API integrations**
-- <img src="https://api.iconify.design/mdi/code-braces.svg?color=%23ef4444&height=18" alt="code" /> Key areas: **Java, Spring Boot, Node.js, TypeScript**
-- <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23ef4444&height=18" alt="bolt" /> I enjoy building things that solve real problems
+- <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23ef4444&height=18" alt="foguete" /> Comecei a jornada com Desenvolvimento de Software em **Java / Spring Boot**
+- <img src="https://api.iconify.design/mdi/brain.svg?color=%23ef4444&height=18" alt="cérebro" /> Desenvolvedor Back End em construção, entregando quando posso
+- <img src="https://api.iconify.design/mdi/sprout.svg?color=%23ef4444&height=18" alt="broto" /> Atualmente cursando Ciência da Computação
+- <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23ef4444&height=18" alt="lâmpada" /> Pratico com **n8n**, **automação** e **integrações de API**
+- <img src="https://api.iconify.design/mdi/code-braces.svg?color=%23ef4444&height=18" alt="código" /> Áreas principais: **Java, Spring Boot, Node.js, TypeScript**
+- <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23ef4444&height=18" alt="raio" /> Gosto de construir coisas que resolvem problemas reais
 
 <div align="center">
   <a href="https://github.com/matheus-crisostomo?tab=followers">
-    <img src="https://img.shields.io/github/followers/matheus-crisostomo?style=for-the-badge&color=b91c1c&labelColor=1a1b27&logo=github&logoColor=ef4444" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/matheus-crisostomo?style=for-the-badge&color=b91c1c&labelColor=1a1b27&logo=github&logoColor=ef4444" alt="Seguidores"/>
   </a>
   <a href="https://github.com/matheus-crisostomo">
-    <img src="https://komarev.com/ghpvc/?username=matheus-crisostomo&color=b91c1c&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=matheus-crisostomo&color=b91c1c&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do Perfil"/>
   </a>
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/mdi/wrench.svg?color=%23ef4444&height=24" alt="tools" /> Languages & Tools I Have Placed My Hands On
+## <img src="https://api.iconify.design/mdi/wrench.svg?color=%23ef4444&height=24" alt="ferramentas" /> Linguagens e Ferramentas em que Já Coloquei as Mãos
 
 <div align="center">
 
@@ -52,30 +52,30 @@
 
 ---
 
-## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23ef4444&height=24" alt="stats" /> GitHub Stats
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23ef4444&height=24" alt="estatísticas" /> Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-crisostomo&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9&ring_color=ef4444" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheus-crisostomo&layout=compact&hide_border=true&bg_color=1a1b27&title_color=ef4444&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-crisostomo&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9&ring_color=ef4444" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheus-crisostomo&layout=compact&hide_border=true&bg_color=1a1b27&title_color=ef4444&text_color=c9d1d9" alt="Linguagens Mais Usadas"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=matheus-crisostomo&theme=dark&hide_border=true&background=1a1b27&stroke=b91c1c&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=matheus-crisostomo&theme=dark&hide_border=true&background=1a1b27&stroke=b91c1c&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência no GitHub"/>
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/mdi/trophy.svg?color=%23ef4444&height=24" alt="trophy" /> Top Contributed Repo
+## <img src="https://api.iconify.design/mdi/trophy.svg?color=%23ef4444&height=24" alt="troféu" /> Repositório com Mais Contribuições
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=matheus-crisostomo&limit=5&theme=dark&hide_border=true&background=1a1b27&title_color=ef4444&text_color=c9d1d9&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=matheus-crisostomo&limit=5&theme=dark&hide_border=true&background=1a1b27&title_color=ef4444&text_color=c9d1d9&combine_all_yearly_contributions=true" alt="Repositório com Mais Contribuições"/>
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/mdi/earth.svg?color=%23ef4444&height=24" alt="globe" /> Connect With Me
+## <img src="https://api.iconify.design/mdi/earth.svg?color=%23ef4444&height=24" alt="globo" /> Conecte-se Comigo
 
 <div align="center">
 
@@ -87,15 +87,15 @@
 
 ---
 
-<!-- Activity Graph -->
+<!-- Gráfico de Atividade -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-crisostomo&bg_color=1a1b27&color=ef4444&line=b91c1c&point=ef4444&area=true&area_color=b91c1c&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-crisostomo&bg_color=1a1b27&color=ef4444&line=b91c1c&point=ef4444&area=true&area_color=b91c1c&hide_border=true" alt="Gráfico de Atividade"/>
 </div>
 
-<!-- Snake Animation -->
+<!-- Animação da Cobra -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matheus-crisostomo/matheus-crisostomo/output/github-snake-dark.svg" width="100%" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/matheus-crisostomo/matheus-crisostomo/output/github-snake-dark.svg" width="100%" alt="Animação da cobra"/>
 </div>
 
-<!-- Footer -->
+<!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:b91c1c,100:ef4444&height=120&section=footer"/>
