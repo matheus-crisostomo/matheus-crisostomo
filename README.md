@@ -3,9 +3,6 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:b91c1c,100:ef4444&height=200&section=header&text=Matheus%20Crisostomo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55"/>
 
-<!-- Pac-Man Ghost -->
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50" alt="Pac-Man Ghost"/>
-
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EF4444&center=true&vCenter=true&random=false&width=520&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
@@ -18,6 +15,10 @@
 
 <!-- About Me -->
 ## 🧑‍💻 Sobre Mim
+
+<div align="center">
+  <img src="./assets/ghost.png" width="400" alt="Ghost"/>
+</div>
 
 ```yaml
 name: Matheus Crisostomo
