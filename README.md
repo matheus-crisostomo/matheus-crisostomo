@@ -4,14 +4,14 @@
 
 ---
 
-## 🔥 About Me
+## <img src="https://api.iconify.design/mdi/fire.svg?color=%23ef4444&height=24" alt="fire" /> About Me
 
-- � Began the journey with Software Development in **Java / Spring Boot**
-- 🧠 A work-in-progress Back End Developer, shipping when I can
-- 🌱 Currently pursuing a degree in Computer Science
-- 💡 I practice on **n8n**, **automation** and **API integrations**
-- � Key areas: **Java, Spring Boot, Node.js, TypeScript**
-- ⚡ I enjoy building things that solve real problems
+- <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23ef4444&height=18" alt="rocket" /> Began the journey with Software Development in **Java / Spring Boot**
+- <img src="https://api.iconify.design/mdi/brain.svg?color=%23ef4444&height=18" alt="brain" /> A work-in-progress Back End Developer, shipping when I can
+- <img src="https://api.iconify.design/mdi/sprout.svg?color=%23ef4444&height=18" alt="sprout" /> Currently pursuing a degree in Computer Science
+- <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23ef4444&height=18" alt="lightbulb" /> I practice on **n8n**, **automation** and **API integrations**
+- <img src="https://api.iconify.design/mdi/code-braces.svg?color=%23ef4444&height=18" alt="code" /> Key areas: **Java, Spring Boot, Node.js, TypeScript**
+- <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23ef4444&height=18" alt="bolt" /> I enjoy building things that solve real problems
 
 <div align="center">
   <a href="https://github.com/matheus-crisostomo?tab=followers">
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Languages & Tools I Have Placed My Hands On
+## <img src="https://api.iconify.design/mdi/wrench.svg?color=%23ef4444&height=24" alt="tools" /> Languages & Tools I Have Placed My Hands On
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23ef4444&height=24" alt="stats" /> GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-crisostomo&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9&ring_color=ef4444" alt="GitHub Stats"/>
@@ -67,7 +67,7 @@
 
 ---
 
-## � Top Contributed Repo
+## <img src="https://api.iconify.design/mdi/trophy.svg?color=%23ef4444&height=24" alt="trophy" /> Top Contributed Repo
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=matheus-crisostomo&limit=5&theme=dark&hide_border=true&background=1a1b27&title_color=ef4444&text_color=c9d1d9&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
@@ -75,7 +75,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://api.iconify.design/mdi/earth.svg?color=%23ef4444&height=24" alt="globe" /> Connect With Me
 
 <div align="center">
 
