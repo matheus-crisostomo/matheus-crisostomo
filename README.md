@@ -20,6 +20,11 @@
   <a href="https://github.com/matheus-crisostomo">
     <img src="https://komarev.com/ghpvc/?username=matheus-crisostomo&color=b91c1c&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do Perfil"/>
   </a>
+  <br>
+  <br>
+  <a href="https://matheus-crisostomo.vercel.app/" target="_blank">
+    <img src="./assets/portfolio-badge.svg" alt="Acesse meu Portfólio"/>
+  </a>
 </div>
 
 ---
