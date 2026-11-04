@@ -4,12 +4,12 @@
 
 ---
 
-## <img src="https://api.iconify.design/mdi/fire.svg?color=%23ef4444&height=24" alt="fogo" /> Sobre Mim
+## <img src="https://api.iconify.design/mdi/fire.svg?color=%23ef4444&height=24" alt="fogo" /> Sobre mim
 
-- <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23ef4444&height=18" alt="foguete" /> Comecei a jornada com Desenvolvimento de Software em **Java / Spring Boot**
+- <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23ef4444&height=18" alt="foguete" /> Comecei minha jornada no desenvolvimento de software com **Java e Spring Boot**
 - <img src="https://api.iconify.design/mdi/brain.svg?color=%23ef4444&height=18" alt="cérebro" /> Desenvolvedor Back End apaixonado por criar soluções eficientes e escaláveis
 - <img src="https://api.iconify.design/mdi/sprout.svg?color=%23ef4444&height=18" alt="broto" /> Atualmente cursando Sistemas de Informação
-- <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23ef4444&height=18" alt="lâmpada" /> Pratico com **n8n**, **automação** e **integrações de API**
+- <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23ef4444&height=18" alt="lâmpada" /> Pratico **automação com n8n** e **integrações de APIs**
 - <img src="https://api.iconify.design/mdi/code-braces.svg?color=%23ef4444&height=18" alt="código" /> Áreas principais: **Java, Spring Boot, Node.js, TypeScript**
 - <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23ef4444&height=18" alt="raio" /> Gosto de construir coisas que resolvem problemas reais
 
@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/mdi/wrench.svg?color=%23ef4444&height=24" alt="ferramentas" /> Linguagens e Ferramentas em que Já Coloquei as Mãos
+## <img src="https://api.iconify.design/mdi/wrench.svg?color=%23ef4444&height=24" alt="ferramentas" /> Linguagens e ferramentas
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/mdi/trophy.svg?color=%23ef4444&height=24" alt="troféu" /> Projetos em Destaque
+## <img src="https://api.iconify.design/mdi/trophy.svg?color=%23ef4444&height=24" alt="troféu" /> Projetos em destaque
 
 <div align="center">
   <a href="https://github.com/matheus-crisostomo/clinicalAPI">
@@ -93,7 +93,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/mdi/earth.svg?color=%23ef4444&height=24" alt="globo" /> Conecte-se Comigo
+## <img src="https://api.iconify.design/mdi/earth.svg?color=%23ef4444&height=24" alt="globo" /> Conecte-se comigo
 
 <div align="center">
 
