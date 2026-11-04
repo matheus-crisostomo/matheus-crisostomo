@@ -65,8 +65,8 @@
 ## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23ef4444&height=24" alt="estatísticas" /> Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-coral-three-73.vercel.app/api?username=matheus-crisostomo&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9&ring_color=ef4444" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats-coral-three-73.vercel.app/api/top-langs/?username=matheus-crisostomo&layout=compact&hide_border=true&bg_color=1a1b27&title_color=ef4444&text_color=c9d1d9" alt="Linguagens Mais Usadas"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=matheus-crisostomo&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9&ring_color=ef4444" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheus-crisostomo&layout=compact&hide_border=true&bg_color=1a1b27&title_color=ef4444&text_color=c9d1d9" alt="Linguagens Mais Usadas"/>
 </div>
 
 <br>
@@ -81,13 +81,13 @@
 
 <div align="center">
   <a href="https://github.com/matheus-crisostomo/clinicalAPI">
-    <img src="https://github-readme-stats-coral-three-73.vercel.app/api/pin/?username=matheus-crisostomo&repo=clinicalAPI&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="clinicalAPI"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=matheus-crisostomo&repo=clinicalAPI&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="clinicalAPI"/>
   </a>
   <a href="https://github.com/matheus-crisostomo/api-node">
-    <img src="https://github-readme-stats-coral-three-73.vercel.app/api/pin/?username=matheus-crisostomo&repo=api-node&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="api-node"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=matheus-crisostomo&repo=api-node&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="api-node"/>
   </a>
   <a href="https://github.com/matheus-crisostomo/bst-project">
-    <img src="https://github-readme-stats-coral-three-73.vercel.app/api/pin/?username=matheus-crisostomo&repo=bst-project&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="bst-project"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=matheus-crisostomo&repo=bst-project&hide_border=true&bg_color=1a1b27&title_color=ef4444&icon_color=b91c1c&text_color=c9d1d9" alt="bst-project"/>
   </a>
 </div>
 
@@ -107,7 +107,7 @@
 
 <!-- Gráfico de Atividade -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-crisostomo&bg_color=1a1b27&color=ef4444&line=b91c1c&point=ef4444&area=true&area_color=b91c1c&hide_border=true" alt="Gráfico de Atividade"/>
+  <img width="640" src="https://ghstats.dev/api/sparkline?username=matheus-crisostomo&theme=radical" alt="Gráfico de Atividade"/>
 </div>
 
 <!-- Animação da Cobra -->
